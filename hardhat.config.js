@@ -40,7 +40,7 @@ module.exports = {
   gasReporter: {
     enabled: true,
     currency: "USD",
-    outputFile: "gas-reorter.txt",
+    outputFile: "gas-reporter.txt",
     noColors: true,
     coinmarketcap: COINMARKETCAP_API_KEY,
     token: "MATIC",
